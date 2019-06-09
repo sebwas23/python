@@ -6,7 +6,7 @@ This is a temporary script file.
 """
 import math
 import random
-import re
+
 s = "Nowy napis do przećwiczenia"
 
 print (s)
